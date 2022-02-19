@@ -15,6 +15,7 @@ export default function Home() {
         <p className="description">
           software engineer
         </p>
+        <img src="/IMG_9547.JPG" />
       </main>
 
       <Footer />
